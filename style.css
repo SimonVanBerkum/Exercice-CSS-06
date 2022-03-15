@@ -1,0 +1,84 @@
+body
+{
+    background-color: lightgray;
+}
+header
+{
+    display: flex;
+    border: solid black;
+    justify-content: space-between;
+    height: 100px;
+
+}
+.ulheader 
+{
+    list-style: none;
+    display: flex;
+}
+.Lienheader
+{
+    padding-top: 23px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.ananas
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+.ananasoui
+{
+    height: 300px;
+    width: 300px;
+}
+.p1
+{
+    height: 300px;
+    width: 300px;
+    padding-left: 20px;
+    background-color: bisque;
+}
+.text2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 480px;
+}
+.p2
+{
+    height: 360px;
+    width: 800px;
+    padding-left: 20px;
+    background-color: bisque;
+}
+.table
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 200px;
+    width: 800px;
+    background-color: azure;
+}
+.logomidpage
+{
+    height: 80px;
+    width: 80px;
+    padding-right: 20px;
+}
+.textencart
+{
+    width: 300px;
+    height: 100px;
+    padding-left: 20px;
+}
+.liencart
+{
+    display: inline;
+    list-style: none;
+}
+
